@@ -40,7 +40,7 @@ Em construção...
 
 ### What I learned
 
-Abaixo está um código que manjei rápido como editar. De restante, como é meu primeiro exercício solo, busquei referências em outros projetos, anotações e até mesmo nas aulas do curso.
+Abaixo está um código que manjei rápido como editar. De restante, como é meu primeiro exercício solo, busquei referências em outros projetos do curso, anotações e aulas.
 
 ```css
 .p {
