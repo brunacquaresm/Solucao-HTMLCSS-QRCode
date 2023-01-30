@@ -40,7 +40,7 @@ Em construção...
 
 ### What I learned
 
-Abaixo está um código que manjei rápido como editar. De restante, como é meu primeiro exercício solo, busquei referências em outros projetos, anotações e até mesmo nas aulas do curso, o que é perfeitamente normal na rotina de um desenvolvedor: pesquisar.
+Abaixo está um código que manjei rápido como editar. De restante, como é meu primeiro exercício solo, busquei referências em outros projetos, anotações e até mesmo nas aulas do curso.
 
 ```css
 .p {
@@ -59,4 +59,3 @@ No momento o foco está em HTML, CSS e JavaScript. Futuramente React, Node JS e 
 ## Author
 
 - Frontend Mentor - [@brunacquaresm](https://www.frontendmentor.io/profile/brunacquaresm)
-- Facebook - (https://www.facebook.com/bruna.gq.3/)
